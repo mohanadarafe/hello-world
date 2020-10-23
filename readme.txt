@@ -1,4 +1,2 @@
 Hello!
-Another line
-Another line1
-Another line2
+Hello again dear friend
